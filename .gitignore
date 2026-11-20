@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+sim_build/
+sim/sim_build/
+*.vcd
+sim/*.vcd
+*.fst
+sim/*.fst
+results.xml
+sim/results.xml
+*.log
+*.jou
+*.str
+.Xil/
+build/vivado/
